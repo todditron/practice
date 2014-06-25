@@ -3,6 +3,8 @@ practice
 
 Practice repo for forking, merging, sub modules and sub trees
 
+https://help.github.com/articles/fork-a-repo
+
 ```
 
 git clone git@github.com:DD9/practice.git
